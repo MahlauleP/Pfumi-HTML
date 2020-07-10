@@ -1,0 +1,22 @@
+
+    table{
+        border: 4px solid rgb(29, 27, 27);
+        border-collapse: collapse;
+        width:60%;
+    }
+
+    th,td{
+        border:2px solid grey;
+        padding:5px;
+        text-align:center;
+        font-family: 'Courier New', Courier, monospace;
+        
+    }
+
+    th{
+        background-color: hotpink;
+        font-style: oblique;
+    }
+    #bp{
+        background-color: lawngreen;
+    }
